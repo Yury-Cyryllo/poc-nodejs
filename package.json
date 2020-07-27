@@ -1,0 +1,24 @@
+{
+  "name": "poc-nodejs",
+  "version": "0.0.1",
+  "description": "minha poc node",
+  "main": "app.js",
+  "dependencies": {
+    "cli-color": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yury-Cyryllo/poc-nodejs.git"
+  },
+  "author": "yury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yury-Cyryllo/poc-nodejs/issues"
+  },
+  "homepage": "https://github.com/Yury-Cyryllo/poc-nodejs#readme"
+}
