@@ -8,6 +8,7 @@
 3. Retornar uma lista de usuarios na rota criada;
 
     ``` 
+    
         let usuarios = [ 
             { name: "Yury", idade: 27 },
             { name: "David", idade: 26 },
